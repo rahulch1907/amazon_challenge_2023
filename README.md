@@ -39,5 +39,6 @@ Note: Ensure that your submission file contains the following:
 Correct index values as per the test file
 Correct names of columns as provided in the sample_submission.csv file
 
-you can find the dataset here: 
+you can find the dataset here: https://drive.google.com/drive/folders/1qhZq9WwB5LoO1Gz2tw0nX_6MYufGlHmS?usp=share_link
 I worked on IBM Cloud platform so the code may changes slightly depending on what platform you use.
+I used linear regression model i got the score 0. You may use another models for better score.
